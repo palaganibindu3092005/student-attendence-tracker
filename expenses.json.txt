@@ -1,14 +1,16 @@
 [
     {
-        "id": 1,
-        "category": "Food",
-        "description": "Lunch",
-        "amount": 250
+        "roll_no": "101",
+        "name": "Bindu",
+        "subject": "Python",
+        "date": "30-09-2026",
+        "status": "Present"
     },
     {
-        "id": 2,
-        "category": "Travel",
-        "description": "Bus Ticket",
-        "amount": 50
+        "roll_no": "102",
+        "name": "Siva",
+        "subject": "Python",
+        "date": "30-09-2026",
+        "status": "Absent"
     }
 ]
